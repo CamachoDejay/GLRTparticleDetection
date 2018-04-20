@@ -5,6 +5,9 @@ function main()
 %   particle in the middle. For the particle I just use a gaussian
 %   approximation to the PSF.
 
+% By Rafael Camacho, 2018, github user camachodejay,
+% <camachodejay@yahoo.com>
+
 % lets agree on a ROI size of 13 x 13
 ROIsize = [13,13];
 
